@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Luna",
+        "breed": "Mixed Breed",
+        "age": "2 years",
+        "location": "Durban",
+        "gender": "Female",
+        "size": "Medium",
+        "contact": "082 563 3849",
+        "address": "4 Clement Road, Bothas Hill KZN",
+        "description": "Luna would love a home to cuddle up in so if you are looking to adopt, please come meet this precious girl.",
+        "image": "dog-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Lacey",
+        "breed": "Border Collie cross",
+        "age": "6 Months",
+        "location": "Durban",
+        "gender": "Female",
+        "size": "Medium",
+        "contact": "082 563 3849",
+        "address": "14 Ronald Road, Phoenix KZN",
+        "description": "Lacey is a happy girl and loves to be the centre of attention. She is an 8 month old Border Collie cross.",
+        "image": "dog-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Storm",
+        "breed": "Boerboel cross",
+        "age": "6 Months",
+        "location": "Durban",
+        "gender": "Female",
+        "size": "Medium",
+        "contact": "082 563 3849",
+        "address": "14 Ronald Road, Phoenix KZN",
+        "description": "Storm is a gentle girl with a calm and sweet nature. She is a 2 year old Boerboel cross.",
+        "image": "dog-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Noddy",
+        "breed": "Mix Breed",
+        "age": "7 Months",
+        "location": "Durban",
+        "gender": "Female",
+        "size": "Medium",
+        "contact": "082 563 3849",
+        "address": "14 Ronald Road, Phoenix KZN",
+        "description": "Noddy was handed in as her family could not provide for her anymore. She is a leggy, lively teenage pup who has a friendly, playful nature.",
+        "image": "dog-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bernardo",
+        "breed": "Wire Haired Terrier",
+        "age": "4 Years",
+        "location": "Durban",
+        "gender": "Male",
+        "size": "Medium",
+        "contact": "082 563 3849",
+        "address": "14 Ronald Road, Phoenix KZN",
+        "description": "One of our inspectors brought in little Bernardo as a stray after finding the little fearful guy in a ditch.  After some TLC in our hospital, he is ready for a new start in adoptions.",
+        "image": "dog-5.jpg"
+    }
+]
