@@ -1,3 +1,10 @@
 img {
     height: 300px;
+    margin-left: 50px;
+}
+
+.info {
+    border: black 1px solid;
+    border-radius: 4px;
+    padding: 30px;
 }
